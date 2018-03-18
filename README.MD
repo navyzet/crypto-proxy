@@ -97,3 +97,5 @@ openssl: /opt/cprocsp/cp-openssl/lib/amd64/libcrypto.so.1.0.0: no version inform
 openssl: /opt/cprocsp/cp-openssl/lib/amd64/libcrypto.so.1.0.0: no version information available (required by openssl)
  * Reloading nginx configuration nginx
 ```
+
+В качестве клиента я использовал [Chromium](https://github.com/deemru/chromium-gost) с поддержкой алгоритмов ГОСТ.
